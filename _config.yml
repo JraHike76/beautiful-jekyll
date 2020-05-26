@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: "My website"
+title: "Data Science"
 
 # Short description of your site
-description: "A Journey Through the Field of Data Science"
+description: "Learning Data Science"
 
 # Your name to show in the footer
 author: "Jason Adamo"
@@ -12,17 +12,17 @@ author: "Jason Adamo"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am currently a Data Science student at Lambda School"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Lambda School: "www.lambdaschool.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://github.com/JraHike76"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://i.imgur.com/m8DJlAS.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
