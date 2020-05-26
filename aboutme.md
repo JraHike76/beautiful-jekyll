@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Current Data Science student at Lambda School
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jason Adamo but please call me Jay, otherwise I feel like I am in trouble. After spending several years trying to find a career best suited for me I have ended up chasing a career in the Data Science field. I have a variety of experiences as a technician in encironmental regulation, an educator and most recently in human services. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+All 3 of those fields were challenging but I did not feel a sense of satisfaction. The analytical part of my brain was underused. However from the aforementioned fields I have developed an excellent skill set such as effective communication, technical writing and presenting complex material in a language the average layman could interpret. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Alas, here I am. Perhaps I found my calling, but if not I am adding to my ever evolving skillset, accepting challenges as they come, as I am committed to being a life long learnerner. 
