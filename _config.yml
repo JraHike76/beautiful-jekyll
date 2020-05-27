@@ -12,11 +12,11 @@ author: "Jason Adamo"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am currently a Data Science student at Lambda School"
+  About Me: "aboutme"
   Resources:
-    - Lambda School: "www.lambdaschool.com/"
+    - Lambda School: "https://www.lambdaschool.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://github.com/JraHike76"
+# Author's home: "https://github.com/JraHike76"
 
 # --- Logo --- #
 
@@ -38,11 +38,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-#  email: "jadamo1976@gmail.com"
+   email: "jadamo1976@gmail.com"
 #  facebook:  
    github: JraHike76  
 #  twitter:  
-  rss: true
+   rss: true
 #  reddit: yourname
 #  linkedin:  
 #  xing: yourname
@@ -61,7 +61,7 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-#share-links-active:
+# share-links-active:
   twitter: False
   facebook: False
   linkedin: False
