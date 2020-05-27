@@ -14,8 +14,8 @@ author: "Jason Adamo"
 navbar-links:
   About Me: "I am currently a Data Science student at Lambda School"
   Resources:
-    - Lambda School: "www.lambdaschool.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - Lambda School: "www.lambdaschool.com/"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://github.com/JraHike76"
 
 # --- Logo --- #
