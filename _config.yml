@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: "Home"
+title: "My Website"
 
 # Short description of your site
 description: "Learning Data Science"
@@ -12,7 +12,7 @@ author: "Jason Adamo"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme.md"
   Resources:
     - Lambda School: "https://www.lambdaschool.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
