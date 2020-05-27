@@ -38,7 +38,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "jadamo1976@gmail.com"
+  #email: "jadamo1976@gmail.com"
   #facebook:  
   github: JraHike76  
   #twitter:  
