@@ -38,7 +38,7 @@ During January there does not seem to be any signicance to an increase or decrea
 
 Well you are probably thinking "no duh", who wants to be out in the wilderness in these conditions? Ok let's look at a comparison of May versus September.
 
-![Snowy trail](https://i.imgur.com/bPGir6q.jpg?1)
+<img src="https://i.imgur.com/bPGir6q.jpg" class="align-center" alt="">
 
 ## Visitors in Spring vs. Fall
 Due the the higher elevation of this alpine region I chose May to represent Spring as it is the first months where the weather starts to become tolerable. September is a good representation of Fall as temperature starts to drop and the park may even experience snow. My thought was that these months will have more in common than the months of January and July, hoping both May and October showed an increase in visitors over the chosen years.
@@ -62,6 +62,8 @@ In order to measure the level of interest in visiting Yellowstone I calculated t
 ![PopPercent](https://i.imgur.com/1nNZqOJ.png)
 
 There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
+
+<img src="https://i.imgur.com/dDWCWZS.jpg" class="align-center" alt="">
 
 ## Takeaway
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
