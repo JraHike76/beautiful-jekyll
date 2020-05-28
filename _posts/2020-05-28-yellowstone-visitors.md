@@ -6,7 +6,7 @@ tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, 
 ---
 
 <p align="center">
-<img src=https://i.imgur.com/dDWCWZS.jpg width="500" height="300"> 
+<img src=https://i.imgur.com/dDWCWZS.jpg width="400" height="250"> 
 </p> 
 
 ## Introduction  
@@ -14,6 +14,10 @@ Yellowstone National Park, best known for it's aptly named geyser "_Olde Faithfu
 
 ## About Yellowstone  
 This national park is **3,500 square miles of wilderness situated atop of a volcanic hot spot**. Although most of the park is in Wyoming, this recreation area spreads into parts of Montana and Idaho as well. In addition to the dramatic canyons, alpine rivers and lush forests, Yellowstone National park features **hot springs and gushing geysers**. This park also home to a variety of wildlife, including bears, wolves, bison, elk and antelope.
+
+<p align="center">
+<img src=https://i.imgur.com/bZwvrHO.jpg width="400" height="250"> 
+</p>
 
 ## Visitors 1979 - 2018 
 During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 million in 1979 to an estimated 327 million in 2018.
@@ -53,6 +57,10 @@ The results represented in the graph show a significant increase in visitors for
 Ok big deal right? Obviously there is going to be an increase in visitors because the population increased! BUT...
 
 >As recent times has shown, there are overused trail systems such as the Appalachian Trail that spans the east coast and even the number of climbers are limited per year at snow capped mountains such as Mt. Rainier in Washington. Is now a good time to mention you have to carry your poop with you down the mountain? It is apparent that more and more people are getting in touch with their inner "tree hugger" selves to finding peace from their busy lives in the tranquility and solitude of nature.
+
+<p align="center">
+<img src=https://i.imgur.com/J4kHuHZ.jpg width="400" height="250"> 
+</p> 
 
 ## Measuring increased interest
 In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
