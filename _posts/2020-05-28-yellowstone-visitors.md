@@ -63,7 +63,7 @@ In order to measure the level of interest in visiting Yellowstone I calculated t
 
 There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
 
-<img src="https://i.imgur.com/dDWCWZS.jpg" class="align-center" alt="">
+<img src="https://i.imgur.com/J4kHuHZ.jpg" class="align-center" alt="">
 
 ## Takeaway
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
