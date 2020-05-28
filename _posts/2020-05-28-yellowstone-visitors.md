@@ -59,7 +59,8 @@ There is a slight increase in the percentage of the US population but only about
 
 ## Takeaway
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
-* Some things to consider with this study is the variables such as weather and economy that were not taken into account  
+* Some things to consider with this study are the variables that were not taken into account such as weather and economy  
 * The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone 
-* Need I remind you that carrying your poop down Mt. Rainier is protocol? It's true, Google it.
+* But, need I remind you that **carrying your poop** down Mt. Rainier is protocol? It's true, Google it.
 
+![poo](https://i.imgur.com/va0Gad1.png)
