@@ -5,8 +5,6 @@ subtitle: "A brief synopsis of when guests visit and the increase in interest ex
 tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, Old Faithful, Geysers, Hot Springs]
 ---
 
-![Bison_Old_Faithful](https://i.imgur.com/dDWCWZS.jpg)
-
 <img src="https://i.imgur.com/dDWCWZS.jpg" class="align-center" alt="">
 
 
