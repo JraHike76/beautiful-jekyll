@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Yellowstone National Park: Take a number"    
-subtitle: "Is there a correlation between an increased love of nature and the rise in visitation at Yellowstone?
+title: "Yellowstone National Park: Take a number"
+subtitle: "Is there a correlation between an increased love of nature and the rise in visitation at Yellowstone?" 
 tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, Old Faithful, Geysers, Hot Springs]
 ---
 
