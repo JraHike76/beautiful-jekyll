@@ -4,7 +4,6 @@ title: "Yellowstone National Park: 40 years of increased visitation"
 subtitle: "A brief synopsis of when guests visit and the increase in interest explained"
 tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, Old Faithful, Geysers, Hot Springs]
 ---
-
 <p align="center">
 <img src=https://i.imgur.com/dDWCWZS.jpg width="400" height="250"> 
 </p> 
