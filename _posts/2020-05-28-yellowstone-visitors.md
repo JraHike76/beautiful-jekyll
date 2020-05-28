@@ -31,7 +31,7 @@ I chose to compare the least busiest month of January to represent winter and th
 
 During January there does not seem to be any signicance to an increase or decrease of visitors. In contrast there is a steady rise in the number of guests at Yellowstone in July. 
 
-### Reasons for stagnation in winter?
+### Reasons for stagnation in winter
 * Winter access is limited to snowshoes/x-country skiing, major roadways are not plowed
 * Due to hibernation there is a decrease in wildlife activity
 * Extreme cold temperatures, high winds and frequent snowstorms
