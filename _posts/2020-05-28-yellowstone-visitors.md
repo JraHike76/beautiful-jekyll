@@ -1,5 +1,8 @@
-# **Yellowstone National Park: 40 years of increased visitation**    
-## A brief synopsis of when guests visit and the increase in interest explained    
+---
+layout: post
+title: Yellowstone National Park: 40 years of increased visitation    
+subtitle: A brief synopsis of when guests visit and the increase in interest explained
+tags: [data science, data science student]
 ---
 
 ## Introduction  
