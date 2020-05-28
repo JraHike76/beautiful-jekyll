@@ -2,7 +2,7 @@
 layout: post
 title: Yellowstone National Park: 40 years of increased visitation    
 subtitle: A brief synopsis of when guests visit and the increase in interest explained
-tags: [data science, data science student]
+tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, Old Faithful, Geysers, Hot Springs]
 ---
 
 ## Introduction  
@@ -20,23 +20,40 @@ During this 40 year span Yellowstone saw the number of guests increase from roug
 
 Okay, we got through that... Stay with me now as we look at when visitors flocked to the land of hot springs and geysers. 
 
-# Visitors in Winter vs. Summer
-I chose to compare the least busiest month of January to represent winter and the busiest month of July to represent summer. 
+## Visitors in Winter vs. Summer
+I chose to compare the least busiest month of January to represent winter and the busiest month of July to represent summer. I also only picked years in intervals of ten starting with 1979, however the last year represented will be 2018.   
 
 ![WintervSummer](https://i.imgur.com/kBhnz2K.png)
 
 During January there does not seem to be any signicance to an increase or decrease of visitors. In contrast there is a steady rise in the number of guests at Yellowstone in July. 
 
-## Reasons for stagnation in winter?:
+### Reasons for stagnation in winter?:
 * Winter access is limited to snowshoes/x-country skiing, major roadways are not plowed
 * Due to hibernation there is a decrease in wildlife activity
 * Extreme cold temperatures, high winds and frequent snowstorms
 
 Well you are probably thinking "no duh", who wants to be out in the wilderness in these conditions? Ok let's look at a comparison of May versus September.
 
-# Visitors in Spring vs. Fall
-Due the the higher elevation of this alpine region I chose May to represent Spring as it is the first months where the weather starts to become tolerable. September is a good representation of Fall as temperature starts to drop and the park may even experience snow. 
+## Visitors in Spring vs. Fall
+Due the the higher elevation of this alpine region I chose May to represent Spring as it is the first months where the weather starts to become tolerable. September is a good representation of Fall as temperature starts to drop and the park may even experience snow. My thought was that these months will have more in common than the months of January and July, hoping both May and October showed an increase in visitors over the chosen years.
 
-![SpringvFall](https://i.imgur.com/BezGvzX.png)
+![SpringvFall](https://i.imgur.com/TpwQ6EY.png)
+
+The results represented in the graph show a significant increase in visitors for both months. However, May had a much lower visitor count than September
+
+### Possible reasons for the difference:
+* May is most likely still a very wet month leaving camgrounds and trails a muddy mess
+* September might bring out the leaf peepers and those taking last minute family vacations before school starts
+* September is probably the ideal month to visit given there is significantly less visitors than July
+
+Ok big deal right? Obviously there is going to be an increase in visitors because the population increased! BUT...
+
+>As recent times has shown, there are overused trail systems such as the Appalachian Trail that spans the east coast and even the number of climbers are limited per year at snow capped mountains such as Mt. Rainier in Washington. Is now a good time to mention you have to carry your poop with you down the mountain? It is apparent that more and more people are getting in touch with their inner "tree hugger" selves to finding peace from their busy lives in the tranquility and solitude of nature.
+
+## Measuring increased interest
+In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
+
+[PopPercent](https://i.imgur.com/1nNZqOJ.png)
+
 
 
