@@ -5,6 +5,10 @@ subtitle: "A brief synopsis of when guests visit and the increase in interest ex
 tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, Old Faithful, Geysers, Hot Springs]
 ---
 
+<p align="center">
+<img src=https://i.imgur.com/dDWCWZS.jpg width="500" height="300"> 
+</p> 
+
 ## Introduction  
 Yellowstone National Park, best known for it's aptly named geyser "_Olde Faithful_", experienced an **enourmous increase in visitors from 1979 to 2018**. This project was intended to find the _**contrast of the number of visitors between the different seasons**_, and based on a rising interest in outdoor recreation, if there was an _**increase in the interest of visiting Yellowstone**_ specifically. I was able to address these questions using visitor data collected from the National Park Service as well as population data based on the United States census and worldometer.com. Let's dig in, shall we? 
 
