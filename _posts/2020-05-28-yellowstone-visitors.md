@@ -53,7 +53,13 @@ Ok big deal right? Obviously there is going to be an increase in visitors becaus
 ## Measuring increased interest
 In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
 
-[PopPercent](https://i.imgur.com/1nNZqOJ.png)
+![PopPercent](https://i.imgur.com/1nNZqOJ.png)
 
+There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
 
+## Takeaway
+* Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
+* Some things to consider with this study is the variables such as weather and economy that were not taken into account  
+* The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone 
+* Need I remind you that carrying your poop down Mt. Rainier is protocol? It's true, Google it.
 
