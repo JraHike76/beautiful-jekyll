@@ -16,13 +16,13 @@ This national park is **3,500 square miles of wilderness situated atop of a volc
 <img src="https://i.imgur.com/bZwvrHO.jpg" class="align-center" alt="">
 
 ## Visitors 1979 - 2018 
-During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 million in 1979 to an estimated 327 million in 2018.
+During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 billion in 1979 to an estimated 3.3 million in 2018.
 
 ![Visitors](https://i.imgur.com/WJFApHc.png)
 
 > As you can see  from the graph above there is a general trend showing the increase in visitors. Take note of the peaks and valleys, or increases and decreases in visitors. Without facts one can only theorize that these sudden changes can be due weather conditions, the economy, or several other variables. Of course further research would have to be done to pinpoint the exact reasoning behind the rise and fall in the number of guests throught the years this data was collected.  
 
-Okay, we got through that... Stay with me now as we look at when visitors flocked to the land of hot springs and geysers. 
+Okay, we got through that... Stay with me now as we look at _when_ visitors flocked to the land of hot springs and geysers. 
 
 ## Visitors in Winter vs. Summer
 I chose to compare the least busiest month of January to represent winter and the busiest month of July to represent summer. I also only picked years in intervals of ten starting with 1979, however the last year represented will be 2018.   
