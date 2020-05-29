@@ -36,8 +36,6 @@ During January there does not seem to be any signicance to an increase or decrea
 * Due to hibernation there is a decrease in wildlife activity
 * Extreme cold temperatures, high winds and frequent snowstorms
 
-<img src="https://i.imgur.com/bPGir6q.jpg" class="align-center" alt="">
-
 Well you are probably thinking "no duh", who wants to be out in the wilderness in these conditions? Ok let's look at a comparison of May versus September.
 
 ## Visitors in Spring vs. Fall
@@ -56,11 +54,7 @@ Ok big deal right? Obviously there is going to be an increase in visitors becaus
 
 >As recent times has shown there has been an increase in ejoying nature. Due to this increase there have been negative impacts on popular wilderness recreation areas such as state and national parks and forests, major trailways and mountain ranges. So certain protocols have been put in place in these areas to reduce human impact such as litter and waste. 
 
-> For example, at snow capped Mt. Rainier in Washington the number of climbers are limited per year, must be led in groups by a park official, all trash must be packed and brought down the mountain and climbers have to even pack their own poop
-
-<img src="https://i.imgur.com/wO9ZB83.jpg" class="align-center" alt="">
-
-It is apparent that more and more people are getting in touch with their inner "tree hugger" and finding peace from their busy lives in the tranquility and solitude of nature.
+> For example, at snow capped Mt. Rainier in Washington the number of climbers are limited per year, must be led in groups by a park official, all trash must be packed and brought down the mountain and climbers have to even pack their own poop. It is apparent that more and more people are getting in touch with their inner "tree hugger" and finding peace from their busy lives in the tranquility and solitude of nature.
 
 ## Measuring increased interest
 In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
@@ -69,9 +63,9 @@ In order to measure the level of interest in visiting Yellowstone I calculated t
 
 >There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
 
-## Takeaway
+## Conclusion:
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
-* The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone
-* Perhaps further research and digging a little deeper could prove a greater increase in visiting Yellowstone National Park 
+* The world's love for nature may be on the rise, but according to my results not necessarily here at Yellowstone
+* Perhaps further research and digging a little deeper could prove a greater increase of interest in visiting this majestic park 
 
 <img src="https://i.imgur.com/J4kHuHZ.jpg" class="align-center" alt="">
