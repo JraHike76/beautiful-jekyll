@@ -16,7 +16,7 @@ This national park is **3,500 square miles of wilderness situated atop of a volc
 <img src="https://i.imgur.com/bZwvrHO.jpg" class="align-center" alt="">
 
 ## Visitors 1979 - 2018 
-During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 billion in 1979 to an estimated 3.3 million in 2018.
+During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 billion in 1979 to an estimated 3.3 billion in 2018.
 
 ![Visitors](https://i.imgur.com/WJFApHc.png)
 
@@ -36,9 +36,9 @@ During January there does not seem to be any signicance to an increase or decrea
 * Due to hibernation there is a decrease in wildlife activity
 * Extreme cold temperatures, high winds and frequent snowstorms
 
-Well you are probably thinking "no duh", who wants to be out in the wilderness in these conditions? Ok let's look at a comparison of May versus September.
-
 <img src="https://i.imgur.com/bPGir6q.jpg" class="align-center" alt="">
+
+Well you are probably thinking "no duh", who wants to be out in the wilderness in these conditions? Ok let's look at a comparison of May versus September.
 
 ## Visitors in Spring vs. Fall
 Due the the higher elevation of this alpine region I chose May to represent Spring as it is the first months where the weather starts to become tolerable. September is a good representation of Fall as temperature starts to drop and the park may even experience snow. My thought was that these months will have more in common than the months of January and July, hoping both May and October showed an increase in visitors over the chosen years.
@@ -54,7 +54,7 @@ The results represented in the graph show a significant increase in visitors for
 
 Ok big deal right? Obviously there is going to be an increase in visitors because the population increased! BUT...
 
->As recent times has shown, there are overused trail systems such as the Appalachian Trail that spans the east coast and even the number of climbers are limited per year at snow capped mountains such as Mt. Rainier in Washington. Is now a good time to mention you have to carry your poop with you down the mountain? It is apparent that more and more people are getting in touch with their inner "tree hugger" selves to finding peace from their busy lives in the tranquility and solitude of nature.
+>As recent times has shown, there are overused trail systems such as the Appalachian Trail that spans the east coast and even the number of climbers are limited per year at snow capped mountains such as Mt. Rainier in Washington. Is now a good time to mention you have to carry your poop with you down the mountain? It is apparent that more and more people are getting in touch with their inner "tree hugger" and finding peace from their busy lives in the tranquility and solitude of nature.
 
 ## Measuring increased interest
 In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
@@ -69,6 +69,3 @@ There is a slight increase in the percentage of the US population but only about
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
 * Some things to consider with this study are the variables that were not taken into account such as weather and economy  
 * The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone 
-* But, need I remind you that **carrying your poop** down Mt. Rainier is protocol? It's true, Google it.
-
-![poo](https://i.imgur.com/va0Gad1.png?1)
