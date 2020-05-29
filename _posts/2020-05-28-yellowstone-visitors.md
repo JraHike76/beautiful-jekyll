@@ -10,10 +10,10 @@ tags: [Data Science, Data Science Student, Yellowstone, National Parks, Nature, 
 ## Introduction  
 Yellowstone National Park, best known for it's aptly named geyser "_Old Faithful_", experienced an **enourmous increase in visitors from 1979 to 2018**. This project was intended to find the _**contrast of the number of visitors between the different seasons**_, and based on a rising interest in outdoor recreation, if there was an _**increase in the interest of visiting Yellowstone**_ specifically. I was able to address these questions using visitor data collected from the National Park Service as well as population data based on the United States census and worldometer.com. Let's dig in, shall we? 
 
+<img src="https://i.imgur.com/bZwvrHO.jpg" class="align-center" alt="">
+
 ## About Yellowstone  
 This national park is **3,500 square miles of wilderness situated atop of a volcanic hot spot**. Although most of the park is in Wyoming, this recreation area spreads into parts of Montana and Idaho as well. In addition to the dramatic canyons, alpine rivers and lush forests, Yellowstone National park features **hot springs and gushing geysers**. This park also home to a variety of wildlife, including bears, wolves, bison, elk and antelope.
-
-<img src="https://i.imgur.com/bZwvrHO.jpg" class="align-center" alt="">
 
 ## Visitors 1979 - 2018 
 During this 40 year span Yellowstone saw the number of guests increase from roughly 1.9 billion in 1979 to an estimated 3.3 billion in 2018.
@@ -54,18 +54,24 @@ The results represented in the graph show a significant increase in visitors for
 
 Ok big deal right? Obviously there is going to be an increase in visitors because the population increased! BUT...
 
->As recent times has shown, there are overused trail systems such as the Appalachian Trail that spans the east coast and even the number of climbers are limited per year at snow capped mountains such as Mt. Rainier in Washington. Is now a good time to mention you have to carry your poop with you down the mountain? It is apparent that more and more people are getting in touch with their inner "tree hugger" and finding peace from their busy lives in the tranquility and solitude of nature.
+>As recent times has shown there has been an increase in ejoying nature. Due to this increase there have been negative impacts on popular wilderness recreation areas such as state and national parks and forests, major trailways and mountain ranges. So certain protocols have been put in place in these areas to reduce human impact such as litter and waste. 
+
+> For example, at snow capped Mt. Rainier in Washington the number of climbers are limited per year, must be led in groups by a park official, all trash must be packed and brought down the mountain and climbers have to even pack their own poop
+
+<img src="https://i.imgur.com/wO9ZB83.jpg" class="align-center" alt="">
+
+It is apparent that more and more people are getting in touch with their inner "tree hugger" and finding peace from their busy lives in the tranquility and solitude of nature.
 
 ## Measuring increased interest
 In order to measure the level of interest in visiting Yellowstone I calculated the percentage of both the world, and that of the United (U.S.), that potentially visited Yellowstone from 1979 - 2018. I found these percentages by dividing the total popultion of the world by the total visitors for each year, I then did the same with the U.S. population. I hypothesized that there would be an increase in interest of visiting Yellowstone over the 40 years, with the U.S. having a greater potential due to it's proximity.  
 
 ![PopPercent](https://i.imgur.com/1nNZqOJ.png)
 
-There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
-
-<img src="https://i.imgur.com/J4kHuHZ.jpg" class="align-center" alt="">
+>There is a slight increase in the percentage of the US population but only about 0.5%. The percentage of the world that visited Yellowstone showed no increase at all. Again this could be due to the population of the U.S. being in much closer in proximity to Yellowstone. 
 
 ## Takeaway
 * Yellowstone has in fact grown in popularity since 1979 with the most popular months falling between late spring and early fall
-* Some things to consider with this study are the variables that were not taken into account such as weather and economy  
-* The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone 
+* The world's love for nature may be on the rise but according to my results not necessarily here at Yellowstone
+* Perhaps further research and digging a little deeper could prove a greater increase in visiting Yellowstone National Park 
+
+<img src="https://i.imgur.com/J4kHuHZ.jpg" class="align-center" alt="">
