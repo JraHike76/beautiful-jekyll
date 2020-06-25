@@ -5,10 +5,8 @@ subtitle: "Take a trip back to 2016 and visit Seattle... Air BnB reviews"
 tags: [Data Science, Data Science Student, Machine Learning, Air BnB, Seattle]
 ---
 
-![Imgur](https://i.imgur.com/aMYAXoi.png?1){width=75%}
-
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/aMYAXoi.png?1" class="align-center">
+  <img width="300" height="200" src="https://i.imgur.com/aMYAXoi.png?1" class="align-center">
 </p>
 
 
