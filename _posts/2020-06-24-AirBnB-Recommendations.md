@@ -32,7 +32,7 @@ My initial model was linear and I chose logistic regression with ordinal encodin
 
 ### **Plotting the coefficients of the logistic regression model**
 <p align="center">
-  <img width="400" height="600" src="https://i.imgur.com/ri0SmJg.png">
+  <img width="350" height="450" src="https://i.imgur.com/ri0SmJg.png">
 </p>
 
 ## **Decision Tree**
@@ -40,7 +40,7 @@ The first classification metric I decided to use was a simple decision tree clas
 
 ### **Decision Tree Model**
 <p align="center">
-  <img width="600" height="400" src="https://i.imgur.com/FHmH3Te.png">
+  <img width="800" height="500" src="https://i.imgur.com/FHmH3Te.png">
 </p>
 
 ## **Random Forest**
@@ -58,7 +58,7 @@ The next classification metric I chose was a random forest classifier with ordin
 
 ###**Permutation Importance with eli 5
 <p align="center">
-  <img width="400" height="600" src="https://i.imgur.com/pFMwTV5.png">
+  <img width="600" height="700" src="https://i.imgur.com/pFMwTV5.png">
 </p>
 
 ## **XG Booster**
@@ -69,14 +69,14 @@ Now I am going to show a visual of the ROC curve for 'highly_recommended' from e
 
 ### **ROC Curve Plot**
 <p align="center">
-  <img width="600" height="400" src="https://i.imgur.com/NMH11fE.png">
+  <img width="500" height="400" src="https://i.imgur.com/NMH11fE.png">
 </p>
 
-## When looking at the visual you can see Random Forest fit the best, with Logistic Regression and XG Boost coming very close. Logistic Regression is close to the boundary line that splits True Positive and False Positive.  Here are the following scores for each model.
->Logistic Regression ROC/AUC Score: 0.70
->Decision Tree ROC/AUC Score: 0.61
->Random Forest ROC/AUC Score: 0.71
->XG Booster ROC/AUC Score: 0.70
+>When looking at the visual you can see Random Forest fit the best, with Logistic Regression and XG Boost coming very close. Logistic Regression is close to the boundary line that splits True Positive and False Positive.  Here are the following scores for each model:
+- Logistic Regression ROC/AUC Score: 0.70
+- Decision Tree ROC/AUC Score: 0.61
+- Random Forest ROC/AUC Score: 0.71
+- XG Booster ROC/AUC Score: 0.70
 
 ## **Conclusion**
 Although all of the models beat the baseline the Logistic Regression, Random Forest and XG Booster were all very close. The Decision Tree model did not fare as well as the others but still beat the baseline also. There are many ways to improve scores here but one would have to go through the code line by line. Perhaps I did too much modeling, maybe leaving in longitude, latitude and property id caused leakage, but the only way to tell would be for one to take a totally different approach to this. This was great fun putting together, but how relevant are these models in 2020? Probably that much, especially with Covid changing the way AirBnB property owners can conduct business. However, in 2016 this project would have been a great guid for me recommending rentals to my out of town visitors. 
