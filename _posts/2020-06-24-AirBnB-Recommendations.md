@@ -11,6 +11,9 @@ tags: [Data Science, Data Science Student, Machine Learning, Air BnB, Seattle]
 **Introduction**
 As I stumbled upon this dataset that was scraped in January of 2016, I felt it deserved further analysis. After looking over the data held within it's 92 columns and close to 4000 observations I wanted to see how well I could recommend these rental properties based on the various reviews. 
 
+**My Process**
+Student also explains: Why & how they chose their target, metric, and baseline. How they avoided leakage. When & why the model is (or is not) useful
+
 {% include figure.html % width=100%}
 
 
