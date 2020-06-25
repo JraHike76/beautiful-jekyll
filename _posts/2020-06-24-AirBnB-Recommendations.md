@@ -14,7 +14,7 @@ As I stumbled upon this dataset that was scraped in January of 2016, I felt it d
 **My Process**
 Student also explains: Why & how they chose their target, metric, and baseline. How they avoided leakage. When & why the model is (or is not) useful
 
-{% include figure.html % width=100%}
+{% include sea_bnb_lat_long_figure.html % width=100%}
 
 
 Looking and the balance of classes for the target highly_recommend
