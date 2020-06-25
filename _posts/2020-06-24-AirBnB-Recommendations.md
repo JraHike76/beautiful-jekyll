@@ -64,12 +64,21 @@ The next classification metric I chose was a random forest classifier with ordin
 </p>
 
 ## **XG Booster**
-I then used XG Booster with ordinal encoding. That model gave me an accuracy score of 64%. Not very impressive but I could always  
+I then used XG Booster with ordinal encoding. That model gave me an accuracy score of 64%. Not very impressive but I could always fine tune hyperparameters for a better score. 
 
+## **ROC Curve and ROC/AUC Scores**
+Now I am going to show a visual of the ROC curve for 'highly_recommended' from every model I used to fit our training data to get validation accuracy.
 
+### **ROC Curve Plot**
+<p align="center">
+  <img width="600" height="400" src="https://i.imgur.com/NMH11fE.png">
+</p>
 
-
-
+## When looking at the visual you can see Random Forest fit the best, with Logistic Regression and XG Boost coming very close. Logistic Regression is close to the boundry line that splits True Positive and False Positive.  Here are the following scores for each model.
+>Logisitic Regression ROC/AUC Score: 0.70
+>Decision Tree ROC/AUC Score: 0.61
+>Random Forest ROC/AUC Score: 0.71
+>XG Booster ROC/AUC Score: 0.70
 
 
 
