@@ -30,10 +30,28 @@ If you look at the map below you will see that there are no major outliers. Inte
 Down to only 20 columns I was ready to split the data into a training, validation and test sets. I used a random split where the test data consisted of 20% of the overall data. I then set the X features and y vector for each of these sets of data. Now it was time to creat my baseline. I did this by calculating the value counts of class 1 and 2 in the 'highly_recommend' column of the training data. This returned a baseline of roughly 53% of the rentals that I would highly recommend. 
 
 ## **Logistic Regression**
-My initial model was linear and I chose logistic regression with ordinal encoding, which gave me an accuracy scor of 65% beating the baseline.  
+My initial model was linear and I chose logistic regression with ordinal encoding, which gave me an accuracy score of 65%, beating the baseline by 12 percentage points. I was suprised by the jump in accuarracy so I wanted to take a look at the coefficients as they are great estimates of the unknown population parameters, therefore our model depends on coefficients for accurrate predictions.   
+
+### **Plotting the coefficients of the logistic regression model**
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/ri0SmJg.png">
+</p>
+
+## **Decision Tree**
+The first classifiction metric I decided to use was a simple decision tree classifier with ordibal encoding.I fit the model with a low score of 59%. This score is only 6 percentage points over baseline which I found suprising. In hindsight I could've fine tuned the hyperparameters for a slightly higher score. Another reason the decision tree was potentially "thrown off" was due to the identifying features with high cardinality such as longitude, latitude and property_id. You can see how strongly they impacted the model by looking at the visual below. 
+
+### **Decision Tree Model**
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/FHmH3Te.png">
+</p>
+
+## **Random Forest**
+The next classification IU chose was 
 
 
-Student also explains: Why & how they chose their target, metric, and baseline. How they avoided leakage. When & why the model is (or is not) useful
+## **XG Booster**
+
+
 
 
 <p align="center">
