@@ -19,7 +19,7 @@ Student also explains: Why & how they chose their target, metric, and baseline. 
 
 **Interactive Map: all properties in the data**
 
-{% include sea_bnb_lat_long_figure.html %}
+{% include figure.html %}
 
 
 
