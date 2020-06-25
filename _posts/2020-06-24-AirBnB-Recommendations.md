@@ -34,7 +34,7 @@ My initial model was linear and I chose logistic regression with ordinal encodin
 
 ### **Plotting the coefficients of the logistic regression model**
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/ri0SmJg.png">
+  <img width="400" height="600" src="https://i.imgur.com/ri0SmJg.png">
 </p>
 
 ## **Decision Tree**
@@ -42,7 +42,7 @@ The first classifiction metric I decided to use was a simple decision tree class
 
 ### **Decision Tree Model**
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/FHmH3Te.png">
+  <img width="600" height="400" src="https://i.imgur.com/FHmH3Te.png">
 </p>
 
 ## **Random Forest**
@@ -50,17 +50,17 @@ The next classification metric I chose was a random forest classifier with ordin
 
 ### **Confusion Matrix for the Random Forest model**
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/sGnrnmG.png">
+  <img width="500" height="500" src="https://i.imgur.com/sGnrnmG.png">
 </p>
 
 ### **Feature Importances of the Random Forest model**
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/XjQa7LV.png">
+  <img width="400" height="600" src="https://i.imgur.com/XjQa7LV.png">
 </p>
 
 ###**Permutation Importance with eli 5
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/pFMwTV5.png">
+  <img width="400" height="600" src="https://i.imgur.com/pFMwTV5.png">
 </p>
 
 ## **XG Booster**
