@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'd sleep there"
-subtitle: "Take a trip back to 2016 and visit Seattle... Air BnB reviews"
+subtitle: "Take a trip back to 2016 and visit Seattle... or at least the Air BnB reviews"
 tags: [Data Science, Data Science Student, Machine Learning, Air BnB, Seattle]
 ---
 <p align="center">
