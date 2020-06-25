@@ -15,7 +15,7 @@ As I stumbled upon this dataset that was scraped in January of 2016, I felt it d
 ## **My Process**
 While first analyzing the data I found many columns to be unuseful such as URL's and categories with only one unique identifier. For instance in the column 'state' Washington is included in every observation. Luckily for me the original creator of this dataset who web-scraped the data from Air BnB' website created a feature based on several review categories such as  Student also explains: Why & how they chose their target, metric, and baseline. How they avoided leakage. When & why the model is (or is not) useful
 
-###**Looking and the balance of classes for the target highly_recommend**
+### **Looking and the balance of classes for the target highly_recommend**
 <p align="center">
   <img width="450" height="275" src="https://i.imgur.com/NZuv8Bf.png" class="align-center">
 </p>
