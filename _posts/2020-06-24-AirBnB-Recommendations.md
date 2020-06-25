@@ -8,7 +8,9 @@ tags: [Data Science, Data Science Student, Machine Learning, Air BnB, Seattle]
   <img width= "300 height= "300" src="https://i.imgur.com/aMYAXoi.png">
 </p>
 
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 {% include figure.html %}
 
