@@ -5,7 +5,7 @@ subtitle: "Take a trip back to 2016 and visit Seattle... or at least the AirBnB 
 tags: [Data Science, Data Science Student, Machine Learning, AirBnB, Seattle]
 ---
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/aMYAXoi.png?1" class="align-center">
+  <img width="400" height="250" src="https://i.imgur.com/aMYAXoi.png?1" class="align-center">
 </p>
 
 
