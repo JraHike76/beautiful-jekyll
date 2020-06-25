@@ -13,6 +13,12 @@ tags: [Data Science, Data Science Student, Machine Learning, Air BnB, Seattle]
 {% include figure.html %}
 
 
+Looking and the balance of classes for the target highly_recommend
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/NZuv8Bf.png" class="align-center">
+</p>
+
+
 
 example for full size images: ![A nice image.](foo/bar.png){width=100%}
 
