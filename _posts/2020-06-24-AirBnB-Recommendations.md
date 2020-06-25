@@ -24,15 +24,19 @@ I then dropped and converted categories into classes until I had a dataset that 
 
 >If you look at the map below you will see that there are no major outliers and are all indeed in the city limits of Seattle.
 
-## **Splitting the data and getting a baseline**
+## **Splitting the data and getting a target baseline**
 Down to only 20 columns I was ready to split the data into training, validation and test sets. I used a random split where the test data consisted of 20% of the overall data. I then set the X features and y vector for each of these sets of data. Now it was time to create my baseline. I did this by calculating the value counts of class 1 and 2 in the 'highly_recommend' column of the training data. This returned a baseline of roughly 53% of the rentals that I would highly recommend. 
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/NZuv8Bf.png">
+</p>
 
 ## **Logistic Regression**
 My initial model was linear and I chose logistic regression with ordinal encoding, which gave me an accuracy score of 65%, beating the baseline by 12 percentage points. I was surprised by the jump in accuracy so I wanted to take a look at the coefficients as they are great estimates of the unknown population parameters, therefore our model depends on coefficients for accurate predictions.   
 
 ### **Plotting the coefficients of the logistic regression model**
 <p align="center">
-  <img width="350" height="450" src="https://i.imgur.com/ri0SmJg.png">
+  <img width="350" height="400" src="https://i.imgur.com/ri0SmJg.png">
 </p>
 
 ## **Decision Tree**
@@ -48,7 +52,7 @@ The next classification metric I chose was a random forest classifier with ordin
 
 ### **Confusion Matrix for the Random Forest model**
 <p align="center">
-  <img width="500" height="500" src="https://i.imgur.com/sGnrnmG.png">
+  <img width="500" height="400" src="https://i.imgur.com/sGnrnmG.png">
 </p>
 
 ### **Feature Importances of the Random Forest model**
@@ -56,9 +60,9 @@ The next classification metric I chose was a random forest classifier with ordin
   <img width="600" height="700" src="https://i.imgur.com/XjQa7LV.png">
 </p>
 
-### **Permutation Importance with eli 5
+### **Permutation Importance with eli 5**
 <p align="center">
-  <img width="350" height="550" src="https://i.imgur.com/pFMwTV5.png">
+  <img width="300" height="425" src="https://i.imgur.com/pFMwTV5.png">
 </p>
 
 ## **XG Booster**
