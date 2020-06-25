@@ -48,11 +48,26 @@ The first classifiction metric I decided to use was a simple decision tree class
 ## **Random Forest**
 The next classification metric I chose was a random forest classifier with ordinal encoding. I was really hoping for a better score using a more complex model, which game me a validation accuracy score of 66%. This score beats the baseline and the decision tree score but only out performs the linear model by 1 percentage point. So I dug a little deeper. 
 
-## **XG Booster**
 ### **Confusion Matrix for the Random Forest model**
 <p align="center">
   <img width="300" height="200" src="https://i.imgur.com/sGnrnmG.png">
 </p>
+
+### **Feature Importances of the Random Forest model**
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/XjQa7LV.png">
+</p>
+
+###**Permutation Importance with eli 5
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/pFMwTV5.png">
+</p>
+
+## **XG Booster**
+I then used XG Booster with ordinal encoding. That model gave me an accuracy score of 64%. Not very impressive but I could always  
+
+
+
 
 
 
