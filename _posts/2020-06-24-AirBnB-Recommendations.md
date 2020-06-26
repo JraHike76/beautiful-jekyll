@@ -86,6 +86,11 @@ When looking at the visual you can see Random Forest fit the best, with Logistic
 Although all of the models beat the baseline the Logistic Regression, Random Forest and XG Booster were all very close. The Decision Tree model did not fare as well as the others but still beat the baseline also. There are many ways to improve scores here but one would have to go through the code line by line. Perhaps I did too much modeling, maybe leaving in longitude, latitude and property id caused leakage, but the only way to tell would be for one to take a totally different approach to this. This was great fun putting together, but how relevant are these models in 2020? Probably that much, especially with Covid changing the way AirBnB property owners can conduct business. However, in 2016 this project would have been a great guide for me recommending rentals to my out of town visitors. 
 
 <p align="center">
-  <img width="250" height="250" src="https://i.imgur.com/n4NVO3e.png" class="align-center">
+  <img width="200" height="200" src="https://i.imgur.com/n4NVO3e.png" class="align-center">
 </p>
 
+## **About the Data**
+The original data can be found [here](https://www.kaggle.com/airbnb/seattle/data) in a zipped folder. My original dataset is the listings.csv.
+
+## **About the Author**
+Jay Adamo is a current Data Science student at Lambda School on track for full endorsement January 2021. Jay is a former resident of Seattle, Washington and an avid user of AirBnB. Jay Adamo is in no other way affiliated with AirBnB and this project was undertaken as a showcase of his Data Science skillset.
