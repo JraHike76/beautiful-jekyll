@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jay
+title: About Me
 subtitle: Current Data Science student at Lambda School
 ---
 
