@@ -5,7 +5,7 @@ subtitle: A journey through the field of data science
 tags: [data science, data science student, computer science, computer science student, tech, data]
 ---
 
-{% include readtime.html %}
+{% assign ReadTime %}
 
 Thank you for reading my first post! Currently I am a Data Science student at Lambda School. I am proud to say 
 that I made it to the end of the first unit Statistics Fundamentals. It has been a challenging yet rewarding 
