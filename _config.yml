@@ -13,7 +13,7 @@ author: Jay Adamo
 
 navbar-links:
   About Me: "aboutme"
-  Curriculum Vitae: 
+  Curriculum Vitae: "https://github.com/JayAdamo/Resume-Cover-Letter/blob/master/J_Adamo_DS_Resume.pdf"
   Resources:
     - Lambda School: "https://lambdaschool.com"
     - Kaggle: "https://www.kaggle.com/"
