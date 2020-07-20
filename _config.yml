@@ -13,7 +13,8 @@ author: Jay Adamo
 
 navbar-links:
   About Me: "aboutme"
-  Curriculum Vitae: "[Resume](https://i.imgur.com/PyJo8aq.png)"
+  Curriculum Vitae: 
+    - Resume: "https://i.imgur.com/PyJo8aq.png"
   Resources:
     - Lambda School: "https://lambdaschool.com"
     - Kaggle: "https://www.kaggle.com/"
