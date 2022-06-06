@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Jay Adamo
+title: Jay Adamo - Evolve With Me
 
 # Short description of your site
-description: My journey through data science
+description: My journey through this crazy life
 
 # Your name to show in the footer
 author: Jay Adamo
@@ -13,11 +13,8 @@ author: Jay Adamo
 
 navbar-links:
   About Me: "aboutme"
-  Curriculum Vitae: 
-    - Resume: "https://i.imgur.com/PyJo8aq.png"
   Resources:
-    - Lambda School: "https://lambdaschool.com"
-    - Kaggle: "https://www.kaggle.com/"
+ 
   #Author's home: ""
 
 # --- Logo --- #
@@ -40,13 +37,13 @@ round-avatar: False
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "dsjayadamo@gmail.com "
+#  email: "dsjayadamo@gmail.com "
   #facebook:  
-  github: JayAdamo 
-  twitter: JayAdamoDS 
+  #github: JayAdamo 
+  #twitter: JayAdamoDS 
 #  rss: true
 #  reddit: yourname
-  linkedin: jayadamo
+#  linkedin: jayadamo
 #  xing: yourname
 #  stackoverflow: " "
 #  snapchat:  
@@ -64,9 +61,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  linkedin: true
-  github: true
+  twitter: false
+  linkedin: false
+  github: false
   instagram: true
   
 # How to display the link to your website in the footer
